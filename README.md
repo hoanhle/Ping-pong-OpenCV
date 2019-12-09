@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a ping pong game using fist to play that I programmed during my highschool. 
+This is a ping pong game that recognizes player's fist gestures to play that I programmed during my highschool. 
 
 ## How to install
 
